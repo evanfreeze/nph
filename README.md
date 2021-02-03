@@ -9,5 +9,4 @@ Collection of notes from Nashville Programming Hour
 1. Run `git remote -v` to verify you see both your fork's remote as well as the original `evanfreeze/nph` remote
 
 ## Starting a new session
-1. In your fork's directory, run `git fetch upstream`
-1. Now run `git merge upstream/main main` to merge the new changes from `evanfreeze/nph` into your local fork
+In your fork's directory, run `git pull upstream main` to merge in the new changes from `evanfreeze/nph` into your local fork
