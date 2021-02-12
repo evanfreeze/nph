@@ -1,0 +1,18 @@
+{
+  "name": "02-05",
+  "version": "1.0.0",
+  "description": "Today we'll work through setting up this new git-based workflow for Nashville Programming Hour sessions. We also might work thorugh introducing React Hooks if we have time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
