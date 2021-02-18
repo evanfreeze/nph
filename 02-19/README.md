@@ -10,11 +10,11 @@ This time we're going to introduce unit testing with Jest, React Testing Library
 
 Add all of these by running...
 ```bash
-npm install --save-dev jest @testing-libaray/react jest-dom
+npm install --save-dev jest @testing-libaray/react @testing-library/jest-dom
 ```
 ...or a shorthand version...
 ```bash
-npm i -D jest @testing-libaray/react jest-dom
+npm i -D jest @testing-libaray/react @testing-library/jest-dom
 ```
 
 ## Why unit tests
