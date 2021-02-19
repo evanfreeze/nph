@@ -1,0 +1,27 @@
+{
+  "name": "02-05",
+  "version": "1.0.0",
+  "description": "Today we'll work through setting up this new git-based workflow for Nashville Programming Hour sessions. We also might work thorugh introducing React Hooks if we have time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest",
+    "tdd": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.17",
+    "@babel/preset-react": "^7.12.13",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
